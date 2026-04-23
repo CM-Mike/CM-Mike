@@ -7,7 +7,7 @@ I bridge the gap between development, quality, and business impact. Based in Nai
 
 ### 💼 Professional Experience
 **Software Engineer | Meraki Technologies Inc (San Francisco/Remote)**
-*2024 — Present*
+*2024*
 - Designing and maintaining responsive web applications using **React.js** and **Node.js**.
 - Optimizing front-end performance and ensuring cross-platform compatibility for global users.
 
